@@ -25,6 +25,9 @@ Codes are writtern in python and requires python 3.6 + to run.
 * Another very important method is the reward method which is named at the end of each game. 
 * This will take the positive or negative reward (depending on the game winner) and change the Q values for the board configuration we saw in the previous game using the Bellman equation.
 
+![Q-Learning](/Q-Learning-algorithm1.png)
+
+
 ## Running code
 Instructions on how to run the project:<br>
 **Step 1:** Download the zip file or clone the repository <br>
