@@ -2,6 +2,9 @@
 Tic tac toe is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. <br />
 In this project, I intended to develop a agent who will learn how to play tic tac toe and compete again other players. Main objective of the project is to train the agent to learn the strategy to find the best available move and beat Random Agent. I will be using reinforcement Q-Learning to achieve goal.
 
+![tic](/Tic_tac_toe.png)
+
+
 ## Overview
 * Used two strategies: (Random and Q-Learning) 
 * Played 4 games: Random vs Random, Random vs Q-learning, Q-learning vs Random and Q-Learning vs Q-Learning
